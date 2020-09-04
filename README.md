@@ -80,4 +80,3 @@ Además, gracias a todos los primeros usuarios que informaron de los primeros pr
 y otros.
 
 Les debo a todos los traductores de este proyecto un enorme agradecimiento. Actualmente solo hay dos, gracias [@linjiayinchn](https://github.com/linjiayinchn) por la traducción al Chino y Carlos Luna [@caralu74](https://github.com/caralu74) por la traducción al Español.
-
